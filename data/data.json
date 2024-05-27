@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Drink water",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "name": "Exercise for 30 minutes",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "name": "Read a book",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "name": "Meditate",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "name": "Write a journal",
+      "completed": true
+    }
+  ]
